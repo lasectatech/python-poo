@@ -5,7 +5,7 @@ Repo del curso de POO con python
 
 [Enalce a pdf externo explicado mas breve de POO](http://elvex.ugr.es/decsai/java/pdf/3c-relaciones.pdf)
 
-[Enlace al video de youtube]()
+[Enlace al curso completo de python en youtube](https://www.youtube.com/playlist?list=PLl8w4biTYzaUc0p1eURaJlaLEcbs1s38a)
 
 
 # Curso POO con Python
